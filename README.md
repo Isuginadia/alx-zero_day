@@ -1,1 +1,1 @@
-My first readme
+i am becoming a programmer rn
